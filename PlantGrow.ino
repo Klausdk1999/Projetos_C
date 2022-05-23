@@ -1,4 +1,4 @@
-//Código Ganza Baby last ver 30/11
+//Código last ver 30/11
 
 #include "SSD1306.h" // ou #include "SSD1306Wire.h"
 #include "RTClib.h" //  Lady Ada
